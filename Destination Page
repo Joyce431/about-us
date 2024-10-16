@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>Travel Destinations</title>
+    <link rel="stylesheet" href="desti.css">
+</head>
+<body>
+    <h1>Explore Amazing Travel Destinations</h1>
+    <div class="grid-container">
+        <div class="destination">
+            <img src="1.jpg" alt="Lesotho" />
+            <h2><a href="https://www.travelandleisureasia.com/in/destinations/explore-lesotho/">Lesotho, South-Africa</a></h2>
+            <p>With stunning waterfalls, sweeping grass plains, and innumerable grazing sheep dotted around the small country, here are the places you should be visiting at this African beauty</p>
+        </div>
+        <div class="destination">
+            <img src="https://example.com/Lesotho.jpg" alt="Lesotho" />
+            <h2><a href="https://www.lesotho.com/">Lesotho, South-Africa</a></h2>
+            <p>Famous for its beautiful nature, Lesotho is a vibrant country worth exploring.</p>
+        </div>
+        <div class="destination">
+            <img src="https://example.com/Lesotho-features.jpg" alt="Lesotho" />
+            <h2><a href="https://www.Lesotho.travel/">Lesotho, Leribe</a></h2>
+            <p>Known for its stunning landscapes, including Maloti Mountains and beautiful pass called Holomo pass.</p>
+    </div>
+    <div class="video-container">
+        <h2>Travel Inspiration Video</h2> 
+        <iframe width="560" height="315" src="<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div> " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div> 
+</body>
+</html>
